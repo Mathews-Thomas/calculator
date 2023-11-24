@@ -1,0 +1,77 @@
+.main-container{
+    color:white;
+    background-color:#374353;
+    width: 40%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 20px;
+    text-transform: capitalize;
+    padding: 20px;
+}
+.mode{
+    padding-top:10px;
+}
+.input{
+    text-align: center;
+    margin: auto;
+    overflow: hidden;
+}
+.input1{
+    width: 95%;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(55,67,83);
+    color:aliceblue;
+    border: 1px solid rgb(40,50,70) ;
+    box-shadow: 5px 5px 5px 5px rgb(50,60,80);
+    text-align: right;
+    margin-top: 10px;
+    font-size: xx-large;
+    margin-bottom: 10px;
+    
+}
+div{
+    text-align: center;
+}
+button{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(55,67,83);
+    color:aliceblue;
+    border: 1px solid rgb(55,67,83) ;
+    box-shadow: 5px 5px 5px 5px rgb(50,60,80);
+    font-size: large;
+    width: 20%;
+    cursor: pointer;
+}
+button:hover{
+    color:aliceblue;
+    box-shadow: 5px 5px 5px  lightblue;
+}
+.colorbtn{
+    color: rgb(245, 245, 18)
+}
+.colorbtn:hover{
+    color: rgb(245, 245, 18);
+    box-shadow: 5px 5px 5px  rgb(245, 245, 18);
+}
+.colorbtn1{
+    color: red;
+}
+.colorbtn1:hover{
+    color: red;
+    box-shadow: 5px 5px 5px  red;
+
+}
+.spanitem{
+    padding: 10px;
+    padding-bottom: 0;
+    margin-left: 70%;
+    overflow: hidden;
+}
+img{
+   border-radius: 70px;
+   border: 1px solid rgb(55,67,83);
+   cursor: pointer;
+}
